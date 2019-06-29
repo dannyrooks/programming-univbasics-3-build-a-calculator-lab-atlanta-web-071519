@@ -11,7 +11,7 @@ division = 50 / 2
 end
 
 def multiplication(num1, num2)
-multiplication = 
+multiplication = 4 * 30
 end
 
 def modulo(num1, num2)
