@@ -19,5 +19,5 @@ modulo = 34 % 5
 end
 
 def square_root(num)
-square_root = integer.sqrt(81)
+square_root = Integer.sqrt(81)
 end
